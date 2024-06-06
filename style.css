@@ -11,6 +11,9 @@ body{
     justify-content: center;
     align-items: center;
 }
+ul{
+    list-style-type: none;
+}
 .container{
     background-color: hsl(0, 0%, 12%);
     border-radius: 15px;
